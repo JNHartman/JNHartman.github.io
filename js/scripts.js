@@ -61,3 +61,13 @@
   });
 
 })(jQuery); // End of use strict
+
+
+// it is what it is
+ 
+/* 
+  Discreet twitter follow button 
+    - Hover reveals the follow button
+
+  By Tim Holman - tholman.com
+*/
